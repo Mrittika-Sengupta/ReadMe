@@ -13,4 +13,4 @@
 <a href="mailto:mrittika.nsu12@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/_m_r_i_t_t_i_/"><img src="https://img.shields.io/badge/-@m_r_i_t_t_i_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-![code](https://user-images.githubusercontent.com/73641232/138322869-408925ea-0e2b-4332-bf55-39413e62aed4.gif)
+
