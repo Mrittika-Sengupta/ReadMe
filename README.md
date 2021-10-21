@@ -1,5 +1,7 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !I'm Mrittika, a self-motivated tech enthusiast.
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! I'm Mrittika, a self-motivated tech enthusiast.
+
 ![code](https://user-images.githubusercontent.com/73641232/138322869-408925ea-0e2b-4332-bf55-39413e62aed4.gif)
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I’m currently studying Computer Science and Engineering at North South University. \
