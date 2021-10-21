@@ -8,4 +8,4 @@
 ### 📫 &nbsp; How to reach me:
 <a href="https://www.linkedin.com/in/mrittika-sengupta-5469121ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:mrittika.nsu12@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/_m_r_i_t_t_i_/"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/_m_r_i_t_t_i_/"><img src="https://img.shields.io/badge/-@m_r_i_t_t_i__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
