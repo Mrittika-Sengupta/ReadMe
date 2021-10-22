@@ -12,6 +12,11 @@
 <a href="https://www.linkedin.com/in/mrittika-sengupta-5469121ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:mrittika.nsu12@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://www.instagram.com/_m_r_i_t_t_i_/"><img src="https://img.shields.io/badge/-@m_r_i_t_t_i_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+## <h3 align="left">GitHub Stats</h3>
+<a href="">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=mrittikasengupta-debug&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<a />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrittikasengupta-debug&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 ## Latest Blog Posts📩
 <!-- BLOG-POST-LIST:START -->
 - [The ghosts could be the disturbing thing](https://mikasakurisu.blogspot.com/2021/07/the-ghosts-could-be-disturbing-us.html)
@@ -20,12 +25,4 @@
 - [Steve Shirley](https://mikasakurisu.blogspot.com/2021/07/steve-shirley.html)
 - [Time Machine- Is Time Travel Possible!](https://mikasakurisu.blogspot.com/2021/07/time-machine-is-time-travel-possible.html)
 <!-- BLOG-POST-LIST:END -->
-
-## <h3 align="left">GitHub Stats</h3>
-
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=mrittikasengupta-debug&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrittikasengupta-debug&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
 
