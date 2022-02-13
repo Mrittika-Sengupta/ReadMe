@@ -26,5 +26,5 @@
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=mrittika-sengupta&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 <a/>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrittika-sengupta &layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrittika-sengupta)](https://github.com/mrittika-sengupta/github-readme-stats)
 ![code](https://user-images.githubusercontent.com/73641232/138322869-408925ea-0e2b-4332-bf55-39413e62aed4.gif)
