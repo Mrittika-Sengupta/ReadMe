@@ -5,7 +5,7 @@
 
 💡 &nbsp; I’m currently studying Computer Science and Engineering at North South University. \
 💻 &nbsp; In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-🌱  &nbsp;You can shoot me an email at mrittika.nsu12@gmail.com! .\
+🌱  &nbsp;You can shoot me an email at mrittika.nsu12@gmail.com! 
 
 ### 📫 &nbsp; How to reach me:
 <a href="https://www.linkedin.com/in/mrittika-sengupta-5469121ba/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
